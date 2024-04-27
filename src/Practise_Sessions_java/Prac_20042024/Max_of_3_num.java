@@ -16,6 +16,8 @@ public class Max_of_3_num {
         System.out.println("Laregst Number is "+ max);
         System.out.println("Smallest number is "+min);
 
+
+
     }
 
 

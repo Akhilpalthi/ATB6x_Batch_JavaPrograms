@@ -14,7 +14,7 @@ public class Positive_Negative_NUm {
             else if(num==0){
                 System.out.println("Entered numnber is Zero");
             }
-            else if(num<0){
+            else (num<0){
                 System.out.println("Entered number is negative->"+num);
             }
         }

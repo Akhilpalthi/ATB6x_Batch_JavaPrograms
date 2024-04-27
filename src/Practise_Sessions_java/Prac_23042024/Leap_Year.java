@@ -5,7 +5,7 @@ public class Leap_Year {
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter the Year number");
         long year=sc.nextLong();
-        if(year%4==0){
+        if((year%4==0 && year%100!=0) || year%400==0){
             System.out.println("Year is Leap Year");
         }else{
             System.out.println("Year is non leap Year");

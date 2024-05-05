@@ -1,5 +1,4 @@
-package Practise_Sessions_java.Prac04052024;
-import java.util.Arrays;
+package Practise_Sessions_java.Prac_02052024;
 import java.util.Scanner;
 public class DoubleAndStore {
     public static void main(String[] args) {

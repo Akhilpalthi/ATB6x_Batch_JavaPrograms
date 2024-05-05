@@ -1,6 +1,5 @@
-package Practise_Sessions_java.Prac04052024;
+package Practise_Sessions_java.Prac_02052024;
 
-import java.security.DrbgParameters;
 import java.util.Scanner;
 public class PrintMarks {
     public static void main(String[] args) {
